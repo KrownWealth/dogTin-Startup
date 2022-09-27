@@ -20,6 +20,12 @@ p{
     color: #8f8f8f;
 }
 
+a{
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+
 /* Sections Heading*/
 
 .title-heading{
